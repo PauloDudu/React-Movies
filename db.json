@@ -1,0 +1,31 @@
+{
+    "filmes": [
+      {
+        "id": 1,
+        "nome": "Pantera Negra",
+        "descricao": "Conheça a história de T'Challa, príncipe do reino de Wakanda, que perde o seu pai e viaja para os Estados Unidos, onde tem contato com os Vingadores. Entre as suas habilidades estão a velocidade, inteligência e os sentidos apurados.",
+        "dataLancamento": "12/05/2017"        
+      },
+      {
+        "id": 2,
+        "nome": "Vingadores - Endgame",
+        "descricao": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.",
+        "dataLancamento": "12/05/2017" 
+        
+      },
+      {
+        "id": 3,
+        "nome": "Capitão America - O primeiro vingador",
+        "descricao": "Steve Rogers é um jovem que participa de experiências visando a criação do supersoldado americano. Quando os oficiais militares conseguem transformá-lo em uma arma humana, eles percebem que não podem arriscar a vida do jovem nas batalhas de guerra.",
+        "dataLancamento": "12/05/2017" 
+        
+      },
+      {
+        "id": 4,
+        "nome": "Guardiões da galáxia",
+        "descricao": "O aventureiro do espaço Peter Quill torna-se presa de caçadores de recompensas depois que rouba a esfera de um vilão traiçoeiro, Ronan. Para escapar do perigo, ele faz uma aliança com um grupo de quatro extraterrestres. Quando Quill descobre que a esfera roubada possui um poder capaz de mudar os rumos do universo, ele e seu grupo deverão proteger o objeto para salvar o futuro da galáxia.",
+        "dataLancamento": "12/05/2017" 
+        
+      }
+    ]
+}

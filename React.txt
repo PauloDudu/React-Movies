@@ -1,0 +1,49 @@
+-> Comando para rodar uma fake api 
+
+json-server --watch db.json --port 3333
+
+--> Outros comandos 
+
+yarn add json-server
+
+yarn add react-router-dom
+
+yarn add react-styled-components
+
+yarn add axios
+
+yarn add polished
+
+yarn add react-icons
+
+{
+  "tarefas": [
+    {
+      "descricao": "Aprender react editado",
+      "concluido": false,
+      "id": 1
+    },
+    {
+      "descricao": "Aprender react native",
+      "concluido": false,
+      "id": 2
+    },
+    {
+      "descricao": "JSON",
+      "concluido": false,
+      "id": 3
+    },
+    {
+      "descricao": "Axios",
+      "concluido": false,
+      "id": 4
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "dudu.magnificat@gmail.com",
+      "password": "oi123"
+    }
+  ]
+}
